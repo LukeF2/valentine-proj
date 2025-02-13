@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "wtf",
+    "bruh what are you doing",
+    "Are you sure about this?",
+    "bubas please...",
+    "cmon banana chen",
+    "If you say no, I will attack you >:(",
+    "Ok sorry that was mean, please forgive me",
+    "shawty plsssss",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "hehe jk u have to say yes"
 ];
 
 let messageIndex = 0;
